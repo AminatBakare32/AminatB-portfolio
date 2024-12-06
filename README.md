@@ -3,6 +3,9 @@
 
 ## **Project Title**
 AWS Data Analytics Platform for the City of Vancouver
+For detailed architecture, refer to the following diagram:
+
+👉 **[AMINAT PROJECT LATEST.Drawio](./AMINAT%20PROJECT%20LATEST.Drawio)**
 
 ## **Project Description**
 This project involves designing and implementing a scalable AWS-based Data Analytics Platform (DAP) for the City of Vancouver. It aims to analyze trends in construction, renovation, and development projects using data from the Issued Building Permits dataset. The project provides descriptive and exploratory analytics while ensuring robust data governance, security, and cost optimization.
